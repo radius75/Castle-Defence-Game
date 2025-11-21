@@ -1,2 +1,1 @@
-# Castle-Defence-Game
-A game on the Commodore 64
+To report a game bug or suggest new solutions, create a New Issue.
