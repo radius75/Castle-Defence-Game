@@ -5,5 +5,6 @@
 
 
 
-<img width="1329" height="855" alt="obraz" src="https://github.com/user-attachments/assets/ed7442a8-85be-46b4-9c2f-1fb850e79546" />
+<img width="1344" height="802" alt="obraz" src="https://github.com/user-attachments/assets/0e2443a0-98ed-4a64-bbb0-7c26d10646ef" />
+
 
